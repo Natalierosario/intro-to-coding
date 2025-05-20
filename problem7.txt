@@ -1,0 +1,4 @@
+The word ambiguity is in this paragraph 1 times
+The word better is in this paragraph 8 times
+The word is is in this paragraph 10 times
+The word be is in this paragraph 3 times
